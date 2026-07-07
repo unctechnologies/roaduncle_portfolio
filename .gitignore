@@ -3,7 +3,7 @@
 
 # Ignore local knowledge base files if they contain private/proprietary data
 mvl_data.txt
-sould.md
+soul.md
 
 # Ignore the runtime interaction logs generated during testing
 interactions.md
