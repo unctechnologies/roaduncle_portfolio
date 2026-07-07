@@ -1,0 +1,14 @@
+# Ignore local environment files containing real keys
+.env
+
+# Ignore local knowledge base files if they contain private/proprietary data
+mvl_data.txt
+sould.md
+
+# Ignore the runtime interaction logs generated during testing
+interactions.md
+
+# Ignore system/IDE files
+__pycache__/
+*.pyc
+.DS_Store
